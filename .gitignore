@@ -1,0 +1,11 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Vercel e dependências locais
+.vercel/
+node_modules/
